@@ -1,1 +1,2 @@
-# Go-language-learning-code 是威大侠学习GO语言时做的课后题汇总
+# Go-language-learning-code 
+学习GO语言过程中做的课后题汇总
